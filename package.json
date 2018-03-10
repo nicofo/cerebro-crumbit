@@ -1,5 +1,7 @@
 {
-  "name": "crumbit",
+  "name": "cerebro-crumbit",
+  "repository": "https://github.com/nicofo/cerebro-crumbit.git",
+  "author": "nicofo",
   "version": "0.1.0",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
